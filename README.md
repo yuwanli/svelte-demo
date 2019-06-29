@@ -4,6 +4,7 @@ npm install
 npm run dev
 
 http://localhost:xxxx/icon/index.html
+
 http://localhost:xxxx/alert/index.html
 
 新增组件（如alert）
